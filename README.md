@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor Cardoso</h1>
-<h3 align="center">A technology enthusiast at the age of 20</h3>
+<h3 align="center">A technology enthusiast at the age of 23</h3>
 
 - 💬 Ask me about **Javascript, HTML, CSS, Python, C and C#**
 
