@@ -11,7 +11,7 @@
 
 ### 📇 Contato:
 - 📧 **Email:** [igorcardosofrancolin@outlook.com](mailto:igorcardosofrancolin@outlook.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/seuusuario](https://linkedin.com/in/igor-cardoso-francolin)
+- 🔗 **LinkedIn:** [linkedin.com/in/igor-cardoso-francolin](https://linkedin.com/in/igor-cardoso-francolin)
 - 📞 **Telefone:** +55 (16) 98801-5612
 
 ---
