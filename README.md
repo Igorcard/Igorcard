@@ -35,7 +35,7 @@ Desenvolvedor Back-end focado em **Node.js, JavaScript e TypeScript**, apaixonad
 ## 📫 Como me Encontrar  
 
 💼 [LinkedIn](https://www.linkedin.com/in/igor-cardoso-francolin/)  
-📧 Email: igorcardosofrancolin@outlook.com  
+📧 [Email](igorcardosofrancolin@outlook.com).  
 
 ---  
 
