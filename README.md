@@ -40,5 +40,5 @@ Desenvolvedor Back-end focado em **Node.js, JavaScript e TypeScript**, apaixonad
 ---  
 
 ✨ **Certificados:**
-![Node JS Curso Completo do Básico ao Avançado](https://img.shields.io/badge/-Udemy-8257E5?style=for-the-badge&logo=&logoColor=white)  
-![APIs com NodeJs, Express + MongoDb, SQL](https://img.shields.io/badge/-Udemy-8257E5?style=for-the-badge&logo=&logoColor=white)  
+🔹 Node JS Curso Completo do Básico ao Avançado ![](https://img.shields.io/badge/-Udemy-8257E5?style=for-the-badge&logo=&logoColor=white)  
+🔹 APIs com NodeJs, Express + MongoDb, SQL ![](https://img.shields.io/badge/-Udemy-8257E5?style=for-the-badge&logo=&logoColor=white)  
