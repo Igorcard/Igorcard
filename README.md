@@ -1,68 +1,55 @@
-# 👋 Olá, eu sou Igor Cardoso Françolin
+# 👋 Olá, eu sou o Igor!  
 
-💻 **Desenvolvedor Back‑end** apaixonado por **Node.js**, **Express**, **REST APIs** e **Delphi**, sempre em busca de desafios, inovação e crescimento constante.
+Desenvolvedor Back-end focado em **Node.js**, apaixonado por construir APIs escaláveis, microsserviços e soluções robustas para a web.  
 
----
+## 🛠️ Tecnologias & Habilidades  
 
-## 📇 Contato
+### Back-end  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
 
-- 📧 **Email:** [igorcardosofrancolin@outlook.com](mailto:igorcardosofrancolin@outlook.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/igor-cardoso-francolin](https://linkedin.com/in/igor-cardoso-francolin)
-- 📞 **Telefone:** +55 (16) 98801‑5612
+### DevOps & Cloud  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
----
+### Ferramentas  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-## 🚀 Principais Tecnologias
+## 📌 Projetos Destacados  
 
-| 💡 Back‑end               | 💻 Desktop                   | 🧰 Ferramentas                    |
-|--------------------------|-----------------------------|----------------------------------|
-| Node.js, Express, REST   | Delphi (Win32) + ACBr       | Git, Docker, Swagger, ESLint     |
-| TypeScript, PostgreSQL   | Emissão fiscal (SAT, NFe)   | CI/CD, Jest, Insomnia, Postman   |
+🔹 **[Nome do Projeto]** - Descrição breve + tecnologias usadas. [Repositório](#)  
+🔹 **[Nome do Projeto]** - Descrição breve + tecnologias usadas. [Repositório](#)  
+🔹 **[Nome do Projeto]** - Descrição breve + tecnologias usadas. [Repositório](#)  
 
----
+*(Substitua pelos seus projetos reais com links)*  
 
-## 💼 Projetos em destaque
+## 📊 GitHub Stats  
 
-### 🔧 **API de Gestão de Cidades**
-- **Stack:** Node.js + Express + PostgreSQL (Sequelize)
-- **Funcionalidade:** Cadastro e verificação de cidades com consistência entre bases.
-- **Destaque:** Lógica de validação cruzada e tratamento detalhado de erros.
-- [🔗 Ver projeto](https://github.com/Igorcard/pandora-cloud-api)
+![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Igorcard&show_icons=true&theme=dracula&hide_border=true)  
 
----
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorcard&layout=compact&theme=dracula&hide_border=true)  
 
-### 🔐 **Serviço de Licenciamento de Clientes**
-- **Stack:** Node.js + Express + MongoDB
-- **Funcionalidade:** Verificação automática de validade de licença e status do cliente.
-- **Destaque:** Tratamento de arrays, resposta em lote e lançamento de exceções personalizadas.
-- [🔗 Ver projeto](https://github.com/Igorcard/pandora-cloud-api)
+*(Se quiser, você pode adicionar mais gráficos ou métricas do [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*  
 
----
+## 📫 Como me Encontrar  
 
-### 📦 **Integração ACBr NFe/SAT (Delphi)**
-- Projeto legado utilizando Delphi 7 e 10 com ACBr para emissão de documentos fiscais.
-- Tratamento de **A1/A3**, assinatura de XML e configuração automática de schemas.
-- Automatização de envios com foco em lojas e PDVs.
+💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
+📧 Email: seuemail@exemplo.com  
+🐦 Twitter: [@seutwitter](https://twitter.com/seutwitter) *(opcional)*  
 
----
+*(Adicione seus links reais!)*  
 
-## 📊 GitHub Stats
+---  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Igorcard&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorcard&layout=compact&theme=radical" height="150" />
-</p>
-
----
-
-## 📈 Próximos passos
-
-- [ ] Publicar API completa com documentação via Swagger
-- [ ] Adicionar testes automatizados com Jest
-- [ ] Configurar pipelines CI/CD com GitHub Actions
-
----
-
-> ✨ Sempre em busca de aprendizado, boas práticas e soluções inteligentes para desafios reais!
-
----
+⭐ **Dica:** Personalize ainda mais com:  
+- Seus objetivos profissionais  
+- Frameworks que está estudando  
+- Contribuições para open-source  
+- Um toque de humor ou curiosidade sobre você!  
