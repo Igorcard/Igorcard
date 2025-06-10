@@ -28,23 +28,16 @@ Desenvolvedor Back-end focado em **Node.js**, apaixonado por construir APIs esca
 
 ## 📌 Projetos Destacados  
 
-🔹 **[Nome do Projeto]** - Descrição breve + tecnologias usadas. [Repositório](#)  
+🔹 **[Toughts]** - Projeto Web para exposição de pensamentos, utilizando Node.js • Express • Sequelize • Handlebars • bcryptjs • express-session • session-file-store • connect-flash. [Repositório]([https://github.com/Igorcard/Toughts])  
 🔹 **[Nome do Projeto]** - Descrição breve + tecnologias usadas. [Repositório](#)  
 🔹 **[Nome do Projeto]** - Descrição breve + tecnologias usadas. [Repositório](#)  
 
 *(Substitua pelos seus projetos reais com links)*  
 
-## 📊 GitHub Stats  
-
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Igorcard&show_icons=true&theme=dracula&hide_border=true)  
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorcard&layout=compact&theme=dracula&hide_border=true)  
-
 ## 📫 Como me Encontrar  
 
-💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-📧 Email: seuemail@exemplo.com  
-🐦 Twitter: [@seutwitter](https://twitter.com/seutwitter) *(opcional)*  
+💼 [LinkedIn](https://www.linkedin.com/in/igor-cardoso-francolin/)  
+📧 Email: igorcardosofrancolin@outlook.com  
 
 ---  
 
