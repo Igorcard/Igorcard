@@ -5,12 +5,16 @@ Desenvolvedor Back-end focado em **Node.js**, apaixonado por construir APIs esca
 ## 🛠️ Tecnologias & Habilidades  
 
 ### Back-end  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Bancos de Dados  
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-DC382D?style=for-the-badge&logo=delphi&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ### DevOps & Cloud  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -20,6 +24,7 @@ Desenvolvedor Back-end focado em **Node.js**, apaixonado por construir APIs esca
 ### Ferramentas  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Insomnia](https://img.shields.io/badge/Insomnia-DC382D?style=for-the-badge&logo=insomnia&logoColor=white)  
 
 ## 📌 Projetos Destacados  
 
@@ -35,20 +40,14 @@ Desenvolvedor Back-end focado em **Node.js**, apaixonado por construir APIs esca
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorcard&layout=compact&theme=dracula&hide_border=true)  
 
-*(Se quiser, você pode adicionar mais gráficos ou métricas do [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*  
-
 ## 📫 Como me Encontrar  
 
 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
 📧 Email: seuemail@exemplo.com  
 🐦 Twitter: [@seutwitter](https://twitter.com/seutwitter) *(opcional)*  
 
-*(Adicione seus links reais!)*  
-
 ---  
 
-⭐ **Dica:** Personalize ainda mais com:  
-- Seus objetivos profissionais  
-- Frameworks que está estudando  
-- Contribuições para open-source  
-- Um toque de humor ou curiosidade sobre você!  
+✨ **Dica extra:** Se quiser destacar certificações ou cursos, adicione badges como:  
+![Rocketseat](https://img.shields.io/badge/-Rocketseat-8257E5?style=for-the-badge&logo=&logoColor=white)  
+*(Substitua pelo seu curso/certificação)*  
