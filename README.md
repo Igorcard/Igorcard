@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Igor!  
 
-Desenvolvedor Back-end focado em **Node.js**, apaixonado por construir APIs escaláveis, microsserviços e soluções robustas para a web.  
+Desenvolvedor Back-end focado em **Node.js, JavaScript e TypeScript**, apaixonado por construir APIs escaláveis, microsserviços e soluções robustas para a web.  
 
 ## 🛠️ Tecnologias & Habilidades  
 
@@ -28,11 +28,9 @@ Desenvolvedor Back-end focado em **Node.js**, apaixonado por construir APIs esca
 
 ## 📌 Projetos Destacados  
 
-🔹 **[Toughts]** - Projeto Web para exposição de pensamentos, utilizando Node.js • Express • Sequelize • Handlebars • bcryptjs • express-session • session-file-store • connect-flash. [Repositório]([https://github.com/Igorcard/Toughts])  
-🔹 **[Nome do Projeto]** - Descrição breve + tecnologias usadas. [Repositório](#)  
-🔹 **[Nome do Projeto]** - Descrição breve + tecnologias usadas. [Repositório](#)  
-
-*(Substitua pelos seus projetos reais com links)*  
+🔹 **[Toughts]** - Projeto Web para exposição de pensamentos, utilizando Node.js • Express • Sequelize • Handlebars • bcryptjs • express-session • session-file-store • connect-flash. [Repositório](https://github.com/Igorcard/Toughts)  
+🔹 **[Conta Bancária]** - Simulação de uma conta bancária por cmd utilizando NodeJS com módulos fs, chalk e inquirer. [Repositório](https://github.com/Igorcard/ContaBancaria)  
+🔹 **[Ponto de Venda]** - Desafio de uma criação de Ponto de Venda em 3 dias com Delphi 10.2. [Repositório](https://github.com/Igorcard/PontoDeVenda)  
 
 ## 📫 Como me Encontrar  
 
@@ -41,6 +39,6 @@ Desenvolvedor Back-end focado em **Node.js**, apaixonado por construir APIs esca
 
 ---  
 
-✨ **Dica extra:** Se quiser destacar certificações ou cursos, adicione badges como:  
-![Rocketseat](https://img.shields.io/badge/-Rocketseat-8257E5?style=for-the-badge&logo=&logoColor=white)  
-*(Substitua pelo seu curso/certificação)*  
+✨ **Certificados:**
+![Node JS Curso Completo do Básico ao Avançado](https://img.shields.io/badge/-Udemy-8257E5?style=for-the-badge&logo=&logoColor=white)  
+![APIs com NodeJs, Express + MongoDb, SQL](https://img.shields.io/badge/-Udemy-8257E5?style=for-the-badge&logo=&logoColor=white)  
