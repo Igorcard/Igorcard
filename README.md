@@ -28,6 +28,7 @@ Desenvolvedor Back-end focado em **Node.js, JavaScript e TypeScript**, apaixonad
 
 ## 📌 Projetos Destacados  
 
+🔹 **[WeatherApi]** - Projeto Web para consumir a Api da WeatherApi, utilizando Node.js • Express. [Repositório](https://github.com/Igorcard/WeatherApi.git)  
 🔹 **[Toughts]** - Projeto Web para exposição de pensamentos, utilizando Node.js • Express • Sequelize • Handlebars • bcryptjs • express-session • session-file-store • connect-flash. [Repositório](https://github.com/Igorcard/Toughts)  
 🔹 **[Conta Bancária]** - Simulação de uma conta bancária por cmd utilizando NodeJS com módulos fs, chalk e inquirer. [Repositório](https://github.com/Igorcard/ContaBancaria)  
 🔹 **[Ponto de Venda]** - Desafio de uma criação de Ponto de Venda em 3 dias com Delphi 10.2. [Repositório](https://github.com/Igorcard/PontoDeVenda)  
