@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Igor!  
 
-Desenvolvedor Back-end focado em **Node.js, JavaScript e TypeScript**, apaixonado por construir APIs escaláveis, microsserviços e soluções robustas para a web.  
+Desenvolvedor Back-end focado em **Node.js, JavaScript e TypeScript**, para APIs escaláveis, microsserviços e soluções robustas para a web.  
 
 ## 🛠️ Tecnologias & Habilidades  
 
