@@ -27,6 +27,7 @@ Desenvolvedor Back-end focado em **Node.js, JavaScript**, para APIs escaláveis,
 
 ## 📌 Projetos Destacados  
 
+🔹 **[PokedexApi]** - Desafio de criação de uma pokedex com MERN Mongo • Express • React • NodeJs. [Repositório](https://github.com/Igorcard/pokedex-api.git)  
 🔹 **[WeatherApi]** - Projeto Web para consumir a Api da WeatherApi, utilizando Node.js • Express. [Repositório](https://github.com/Igorcard/WeatherApi.git)  
 🔹 **[Toughts]** - Projeto Web para exposição de pensamentos, utilizando Node.js • Express • Sequelize • Handlebars • bcryptjs • express-session • session-file-store • connect-flash. [Repositório](https://github.com/Igorcard/Toughts)  
 🔹 **[Conta Bancária]** - Simulação de uma conta bancária por cmd utilizando NodeJS com módulos fs, chalk e inquirer. [Repositório](https://github.com/Igorcard/ContaBancaria)  
