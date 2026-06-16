@@ -103,11 +103,15 @@ const igor = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Igorcard&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
+<img
+width="48%"
+src="https://github-readme-stats.vercel.app/api?username=Igorcard&show_icons=true&hide_border=true&theme=github_dark&hide_rank=false"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorcard&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Igorcard&theme=github-dark-blue&hide_border=true" />
+<img
+width="48%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorcard&layout=compact&langs_count=6&hide_border=true&theme=github_dark&hide=HTML,CSS"
+/>
 
 </div>
 
