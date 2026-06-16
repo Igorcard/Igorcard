@@ -99,24 +99,6 @@ const igor = {
 
 ---
 
-## 📊 Métricas do GitHub
-
-<div align="center">
-
-<img
-width="48%"
-src="https://github-readme-stats.vercel.app/api?username=Igorcard&show_icons=true&hide_border=true&theme=github_dark&hide_rank=false"
-/>
-
-<img
-width="48%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorcard&layout=compact&langs_count=6&hide_border=true&theme=github_dark&hide=HTML,CSS"
-/>
-
-</div>
-
----
-
 ## 🏆 Destaques
 
 <div align="center">
@@ -128,15 +110,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorcard&lay
 
 </div>
 
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Igorcard&theme=github-compact&hide_border=true&area=true" width="98%" />
-
-</div>
 
 ---
 
