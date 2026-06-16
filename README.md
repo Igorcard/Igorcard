@@ -113,11 +113,14 @@ const igor = {
 
 ---
 
-## 🏆 Conquistas
+## 🏆 Destaques
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Igorcard&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+![Node.js](https://img.shields.io/badge/Foco-Back--end%20Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![APIs](https://img.shields.io/badge/Experiência-APIs%20REST-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+![IA](https://img.shields.io/badge/Área-IA%20Aplicada-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 
 </div>
 
